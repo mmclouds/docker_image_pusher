@@ -1,3 +1,4 @@
 #支持私库
 casbin/casdoor-all-in-one
 casbin/casdoor:latest
+node:18-alpine
